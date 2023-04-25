@@ -12,8 +12,11 @@ body {
 nav a {
   font-size: 18px;
 }
+.num-text {
+  position: relative;
+  bottom: 8px;
+}
 
-/* the start of section one */
 .bring {
   font-size: 4vw;
 }
@@ -76,6 +79,10 @@ nav a {
     display: flex;
     flex-direction: column-reverse;
   }
-  .input-container {
+  .number {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 5px;
   }
 }
