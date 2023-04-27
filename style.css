@@ -5,12 +5,12 @@
 }
 
 body {
-  font-size: 18px;
+  font-size: 16px;
   background-image: url("images/bg-simplify-section-desktop.svg");
 }
 
 nav a {
-  font-size: 18px;
+  font-size: 16px;
 }
 .num-text {
   position: relative;
