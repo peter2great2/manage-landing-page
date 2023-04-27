@@ -22,11 +22,10 @@ nav a {
 }
 
 .grid-container {
-  width: 420px;
   height: 220px;
-  gap: 5px;
   background-color: hsl(227, 12%, 61%, 0.1);
   border-radius: 8px;
+  margin: 10px;
 }
 .grid-container img {
   width: 70px;
